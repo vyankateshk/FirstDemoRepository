@@ -19,6 +19,7 @@ public class ArrayProgram {
 		i[9] = 1000;
 		
 		System.out.println(i[9]);
+		System.out.println(i[5]);
 		System.out.println(i.length);
 		
 		for(int j=0;j<i.length;j++)
